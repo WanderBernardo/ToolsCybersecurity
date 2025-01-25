@@ -11,7 +11,7 @@ Lista ferramentas de segurança
 ### Replit (https://replit.com/):
 - É uma ferramenta web onde é possível codar em diversas linguagens de programação. A maioria dos códigos que utilizamos neste bootcamp eu validei lá.
 
-### Eyezy — Monitoramento Total?
+### Eyezy — Monitoramento Total:
 - É uma ferramenta abrangente, projetada para monitorar atividades em plataformas de mensagens como o WhatsApp. Com uma interface amigável, permite a visualização de mensagens, chamadas e outras interações. Não é Open Source
 
 Uso Ético: Ideal para profissionais de segurança que devem garantir a privacidade e a integridade das comunicações corporativas.
